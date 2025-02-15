@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+openai
+sqlite3
+markdown
